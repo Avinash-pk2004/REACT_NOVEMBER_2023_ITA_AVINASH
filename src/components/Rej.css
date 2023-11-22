@@ -1,0 +1,93 @@
+
+body{
+background: url("C:\Users\avina\Downloads\Untitled design.png");
+background-size: cover;
+
+}
+.container {
+    background-image: url("C:\Users\avina\Downloads\cute-white-little-puppy-isolated-blue.jpg");
+    background-size: cover;
+    
+    width: 750px;
+    padding: 20px;
+    
+    
+    margin: 0 auto;
+    margin-top: 150px;
+    border: px solid rgb(1, 8, 7);
+    border-radius: 10px;
+    
+
+}
+.sign{
+    margin-left: 40px;
+    font-family: Copperplate, Papyrus, fantasy;
+   
+}
+
+.flname{
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 15px;
+    
+}
+#fname{
+    width: 300px;
+    
+}
+#lname{
+    width: 300px;
+    
+}
+.sname{
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 15px;
+}
+
+#post{
+    width: 300px;
+    
+}
+#email{
+    width: 650px;
+    
+  
+}
+.pname{
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 15px;
+}
+#pass{
+    width:300px ;
+}
+#cpass{
+    width:300px ;
+}
+
+
+#button{
+    background-color: rgb(222, 53, 15);
+    color: black;
+    padding: 14px 20px;
+    margin: 8px 0;
+    margin-top: 20px;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    border-radius:10px;
+    font-family: Copperplate, Papyrus, fantasy;
+    width: 330px;
+    margin-left: 35px;
+}
+.but{
+    font-family: Copperplate, Papyrus, fantasy;
+    display: flex;
+
+    
+}
+#log{
+    margin-left: 50px;
+}
+    
