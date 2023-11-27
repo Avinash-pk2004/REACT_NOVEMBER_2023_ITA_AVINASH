@@ -15,7 +15,8 @@ const Reg = () => {
    
   
     return ( 
-        <div className="container">
+      <body id="bo1">
+        <div className="container2">
             <div className="sign">
             <div >    <h1>Sign up</h1></div>
             
@@ -61,8 +62,8 @@ const Reg = () => {
      </div>
 <div className="but">
     <div>
-<Button id="button" variant="contained">Register</Button></div>
-<div id="log"><br></br>Already have an account?<a href="#">Log in</a></div>
+<Button id="button" variant="contained" href='\'>Register</Button></div>
+<div id="log"><br></br>Already have an account?<a href="/Login">Log in</a></div>
 </div>
 
 
@@ -71,6 +72,7 @@ const Reg = () => {
     
     
 </div>
+</body>
 
      );
 }

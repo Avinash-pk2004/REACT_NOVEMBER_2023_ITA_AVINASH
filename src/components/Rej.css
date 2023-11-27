@@ -1,10 +1,13 @@
 
-body{
-background: url("C:\Users\avina\Downloads\Untitled design.png");
-background-size: cover;
+#bo1{
+
+    background: url("C:\Users\avina\Downloads\Untitled design.png");
+    background-size: cover;
+    padding-top: 100px;
+
 
 }
-.container {
+.container2 {
     background-image: url("C:\Users\avina\Downloads\cute-white-little-puppy-isolated-blue.jpg");
     background-size: cover;
     
@@ -13,7 +16,7 @@ background-size: cover;
     
     
     margin: 0 auto;
-    margin-top: 150px;
+    margin-top: 100px;
     border: px solid rgb(1, 8, 7);
     border-radius: 10px;
     
@@ -21,7 +24,7 @@ background-size: cover;
 }
 .sign{
     margin-left: 40px;
-    font-family: Copperplate, Papyrus, fantasy;
+    font-family: Arial, sans-serif;
    
 }
 
@@ -52,6 +55,7 @@ background-size: cover;
 #email{
     width: 650px;
     
+    
   
 }
 .pname{
@@ -77,12 +81,12 @@ background-size: cover;
     cursor: pointer;
     width: 100%;
     border-radius:10px;
-    font-family: Copperplate, Papyrus, fantasy;
+    font-family: Arial, sans-serif;
     width: 330px;
     margin-left: 35px;
 }
 .but{
-    font-family: Copperplate, Papyrus, fantasy;
+    font-family: Arial, sans-serif;
     display: flex;
 
     

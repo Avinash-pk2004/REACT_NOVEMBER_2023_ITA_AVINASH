@@ -10,8 +10,8 @@ function Login(){
     
     return ( 
        
-
-<div className="container">
+<div id="bo">
+<div className="container1">
     <div className="image">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMV6cMkGZ-QDd-GRhm9faWFcI7uqothTqo-A&usqp=CAU" alt="Avatar"></img>
     </div>
@@ -28,7 +28,8 @@ function Login(){
         <div className="forgot"><h3><a href="#">Forgot Passoword?</a></h3></div>
         
     
-        <Button id="button"variant="contained">Login</Button>
+        <Button id="button1"variant="contained" href='\'>Login</Button>
+</div>
 </div>
 
      );

@@ -1,26 +1,29 @@
-body {
-    font-family: Copperplate, Papyrus, fantasy;
-    
-    background-image: url("C:\Users\avina\Downloads\front-view-beautiful-dog-with-copy-space.jpg");
+#bo {
+    font-family: Arial, sans-serif;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1DsNntYYkmbg1vZwPuei4A5K5YMArO0a6_N-ic2MkjA&s");
     background-size: cover;
+    height: 100vh;
+    padding-top: 100px;
+    
 }
 
-.container {
-    background-image: url("");
+.container1 {
+    
     background-size: cover;
     
     width: 300px;
     padding: 16px;
-    font-family: Copperplate, Papyrus, fantasy;
+    font-family: Arial, sans-serif;
     margin: 0 auto;
-    margin-top: 180px;
     border-radius: 10px;
-    margin-left: 500px;
+   margin-top: 100px;
+    
+    margin-left: 550px;
 }
 
 .forgot{
     text-align: right;
-    margin-right:500px;
+    
 }
 
 img{
@@ -32,7 +35,7 @@ img{
 
 }
 #f{
-    font-family: Copperplate, Papyrus, fantasy;
+    font-family: Arial, sans-serif;
     margin-right: 450px;
 }
 #textbox{
@@ -44,7 +47,7 @@ img{
 
     
 }
-#button{
+#button1{
     background-color: rgb(222, 53, 15);
     color: black;
     padding: 14px 20px;
@@ -54,10 +57,10 @@ img{
     cursor: pointer;
     width: 100%;
     border-radius:10px;
-    font-family: Copperplate, Papyrus, fantasy;
+    font-family: Arial, sans-serif;
     width: 330px;
-    margin-right: 500px;
+    margin-left: px;
 }
 #rem{
-    font-family: Copperplate, Papyrus, fantasy;
+    font-family: Arial, sans-serif;
 }
